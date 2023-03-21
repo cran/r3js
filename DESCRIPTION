@@ -1,8 +1,8 @@
 Package: r3js
 Type: Package
 Title: 'WebGL'-Based 3D Plotting using the 'three.js' Library
-Version: 0.0.1
-Date: 2022-06-10
+Version: 0.0.2
+Date: 2023-03-21
 Author: Sam Wilks
 Maintainer: Sam Wilks <sw463@cam.ac.uk>
 Description: Provides R and 'JavaScript' functions to allow 'WebGL'-based 3D plotting
@@ -13,10 +13,10 @@ Encoding: UTF-8
 LazyData: true
 Imports: htmlwidgets, htmltools, jsonlite, ellipsis, vctrs
 Suggests: testthat, rmarkdown, colorspace, knitr
-RoxygenNote: 7.1.2.9000
+RoxygenNote: 7.2.1
 VignetteBuilder: knitr
 Depends: R (>= 2.10)
 NeedsCompilation: no
-Packaged: 2022-06-13 10:40:52 UTC; samwilks
+Packaged: 2023-03-21 09:59:44 UTC; samwilks
 Repository: CRAN
-Date/Publication: 2022-06-14 10:50:02 UTC
+Date/Publication: 2023-03-21 10:20:03 UTC
